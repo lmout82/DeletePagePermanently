@@ -5,3 +5,9 @@ The first release was designed for MediaWiki 1.13 in 2008, originally for a punc
 Official extension page: https://www.mediawiki.org/wiki/Extension:DeletePagePermanently
 
 This extension is no more maintained and moved here for backup only.
+
+## Important notice
+
+This project was created a long time before I became a web developer. Please take into account that this work does not reflect my present skills.
+
+**_This repository is not maintained._**
